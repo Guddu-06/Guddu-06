@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- First-year **CSE (AIML)** student  
+- **CSE (AIML)** student  
 - Exploring **Web Development & Programming**  
 - Learning something new **every single day** 🚀  
 
