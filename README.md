@@ -12,6 +12,34 @@
 
 ---
 
+<h3>🔗 My Coding Profiles:</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.leetcode.com/u/Saswat-Rath/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/profile/saswatignsc" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td>
+      <a href="https://www.hackerrank.com/profile/saswat_iare25" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+---
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/saswat-rath/">
