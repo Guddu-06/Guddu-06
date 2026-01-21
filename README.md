@@ -1,7 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Saswat%20Rath&fontSize=50&fontColor=00D9FF&animation=fadeIn&color=0:0A0F15,100:0F1722" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Saswat%20Rath&fontSize=50&fontColor=FFFDD0&animation=fadeIn&color=0:0B0B0B,100:1A1A1A" />
 </p>
+
 
 ---
 
