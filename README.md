@@ -6,10 +6,10 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 - **CSE (AIML)** student  
 - Exploring **Web Development & Programming**  
-- Learning something new **every single day** 🚀  
+- Learning something new **every single day** 
 
 ---
 
