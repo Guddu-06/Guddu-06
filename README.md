@@ -1,30 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&text=Saswat%20Rath&fontSize=50&fontColor=FFFDD0&animation=fadeIn&color=0:0B0B0B,100:1A1A1A" />
-</p>
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-<br/>
+I'm Saswat, a CS undergrad based in Hyderabad.
 
-<p align="center">
-  <b>CSE (AIML) · Web Development · Competitive Programming</b><br/>
-  <sub>Building things. Breaking things. Learning every day.</sub>
-</p>
+Whatever thought I get, I build it.
 
----
+Currently building **[Mission DSA](https://missiondsa.vercel.app/)** — a structured DSA prep platform for FAANG prep. Free, no signup.
 
-## 👨‍💻 About Me
+Always open to building something new and large. Hit me up.
 
-- 🎓 B.Tech in **Computer Science (AI & ML)** — IARE, Hyderabad *(2025)*
-- 🌐 Building projects in **Full-Stack Web Development**
-- ⚔️ Active competitive programmer on CF, LC & GFG
-- 🤖 Interested in **Machine Learning & AI applications**
-- 📖 Learning something new — every single day
+**Fun Facts:**
+- I have a dog 🐶
+- Minecraft is my game 🎮
+- Coffee over everything ☕
+- Attack on Titan is peak anime 🗡️
 
----
+**Hobbies:** gym · building things · anime · competitive coding · music
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,&color=D4B896" width="100%"/>
 
 ## 🔗 Coding Profiles
-
 <p align="center">
   <a href="https://www.leetcode.com/u/Saswat-Rath/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -43,26 +37,16 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,&color=D4B896" width="100%"/>
 
-## 📝 Languages
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,git,github,vscode,vercel" />
 </p>
 
----
-
-## 🛠️ Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,netlify,vercel,windows,powershell" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,&color=D4B896" width="100%"/>
 
 ## 🌐 Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/saswat-rath/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
