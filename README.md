@@ -32,7 +32,7 @@ Always open to building something new and large. Hit me up.
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/saswat_iare25" target="_blank">
+  <a href="https://www.hackerrank.com/profile/saswat_rath" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 </p>
