@@ -24,10 +24,6 @@ Always open to building something new and large. Hit me up.
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/Guddu_06" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/saswatignsc" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
