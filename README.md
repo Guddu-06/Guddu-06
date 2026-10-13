@@ -18,23 +18,6 @@ Always open to building something new and large. Hit me up.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,&color=D4B896" width="100%"/>
 
-## 🔗 Coding Profiles
-<p align="center">
-  <a href="https://www.leetcode.com/u/Saswat-Rath/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/saswatignsc" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/saswat_rath" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,&color=D4B896" width="100%"/>
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,php,git,github,vscode,vercel" />
